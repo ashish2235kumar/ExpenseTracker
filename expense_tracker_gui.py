@@ -1,8 +1,3 @@
-"""Personal Expense Tracker (GUI) - Mini Project
-Libraries: tkinter, numpy, pandas, matplotlib
-Features: set monthly budget, add expenses to a table (CSV),
-          see remaining amount, view expense pie chart.
-"""
 
 import os
 import tkinter as tk
